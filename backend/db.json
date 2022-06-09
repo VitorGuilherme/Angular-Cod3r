@@ -1,19 +1,34 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta BIC Preta",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Notebook Mac Pro",
-            "price": 12000.89
-        },
-        {
-            "id": 3,
-            "name": "Samsung S20+",
-            "price": 5000.89
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": "22.22"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro M2",
+      "price": "30.000"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Lapis preto",
+      "price": "1.99",
+      "id": 4
+    },
+    {
+      "name": "Torradeira Electrolux",
+      "price": "499.99",
+      "id": 5
+    },
+    {
+      "name": "Cadeira Gamer Husky",
+      "price": "999.99",
+      "id": 6
+    }
+  ]
 }
