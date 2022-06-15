@@ -17,18 +17,18 @@
     },
     {
       "name": "Lapis preto",
-      "price": "1.99",
+      "price": "5570.70",
       "id": 4
     },
     {
       "name": "Torradeira Electrolux",
-      "price": "499.99",
+      "price": "499.98",
       "id": 5
     },
     {
-      "name": "Cadeira Gamer Husky",
-      "price": "999.99",
-      "id": 6
+      "id": 6,
+      "name": "Novo Produto",
+      "price": "1234.45"
     }
   ]
 }

@@ -9,7 +9,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./product-update.component.css']
 })
 export class ProductUpdateComponent implements OnInit {
-  product!: Product;
+  product!: Product ;
 
 
   constructor(private productService: ProductService, private router: Router, private route: ActivatedRoute) { }
